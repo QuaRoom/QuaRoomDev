@@ -1,0 +1,9 @@
+*{
+    border:1px solid red;
+    background: rgba(0,0,0,0.1);
+}
+
+body{
+    margin: auto 20px;
+    padding: 10px;
+}
